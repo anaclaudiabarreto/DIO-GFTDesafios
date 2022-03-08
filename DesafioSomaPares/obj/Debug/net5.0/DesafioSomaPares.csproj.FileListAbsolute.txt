@@ -1,0 +1,16 @@
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\bin\Debug\net5.0\DesafioSomaPares.exe
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\bin\Debug\net5.0\DesafioSomaPares.deps.json
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\bin\Debug\net5.0\DesafioSomaPares.runtimeconfig.json
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\bin\Debug\net5.0\DesafioSomaPares.runtimeconfig.dev.json
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\bin\Debug\net5.0\DesafioSomaPares.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\bin\Debug\net5.0\ref\DesafioSomaPares.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\bin\Debug\net5.0\DesafioSomaPares.pdb
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\obj\Debug\net5.0\DesafioSomaPares.csproj.AssemblyReference.cache
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\obj\Debug\net5.0\DesafioSomaPares.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\obj\Debug\net5.0\DesafioSomaPares.AssemblyInfoInputs.cache
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\obj\Debug\net5.0\DesafioSomaPares.AssemblyInfo.cs
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\obj\Debug\net5.0\DesafioSomaPares.csproj.CoreCompileInputs.cache
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\obj\Debug\net5.0\DesafioSomaPares.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\obj\Debug\net5.0\ref\DesafioSomaPares.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\obj\Debug\net5.0\DesafioSomaPares.pdb
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioSomaPares\obj\Debug\net5.0\DesafioSomaPares.genruntimeconfig.cache

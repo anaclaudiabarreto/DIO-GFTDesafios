@@ -1,0 +1,16 @@
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\bin\Debug\net5.0\DesafioMesEmIngles.exe
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\bin\Debug\net5.0\DesafioMesEmIngles.deps.json
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\bin\Debug\net5.0\DesafioMesEmIngles.runtimeconfig.json
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\bin\Debug\net5.0\DesafioMesEmIngles.runtimeconfig.dev.json
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\bin\Debug\net5.0\DesafioMesEmIngles.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\bin\Debug\net5.0\ref\DesafioMesEmIngles.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\bin\Debug\net5.0\DesafioMesEmIngles.pdb
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\obj\Debug\net5.0\DesafioMesEmIngles.csproj.AssemblyReference.cache
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\obj\Debug\net5.0\DesafioMesEmIngles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\obj\Debug\net5.0\DesafioMesEmIngles.AssemblyInfoInputs.cache
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\obj\Debug\net5.0\DesafioMesEmIngles.AssemblyInfo.cs
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\obj\Debug\net5.0\DesafioMesEmIngles.csproj.CoreCompileInputs.cache
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\obj\Debug\net5.0\DesafioMesEmIngles.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\obj\Debug\net5.0\ref\DesafioMesEmIngles.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\obj\Debug\net5.0\DesafioMesEmIngles.pdb
+E:\Estudos TI\DIO\DesafiosDIOGFT\MesEmIngles\obj\Debug\net5.0\DesafioMesEmIngles.genruntimeconfig.cache

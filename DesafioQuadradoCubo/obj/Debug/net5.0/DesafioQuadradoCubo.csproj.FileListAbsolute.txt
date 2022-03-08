@@ -1,0 +1,16 @@
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\obj\Debug\net5.0\DesafioQuadradoCubo.csproj.AssemblyReference.cache
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\obj\Debug\net5.0\DesafioQuadradoCubo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\obj\Debug\net5.0\DesafioQuadradoCubo.AssemblyInfoInputs.cache
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\obj\Debug\net5.0\DesafioQuadradoCubo.AssemblyInfo.cs
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\obj\Debug\net5.0\DesafioQuadradoCubo.csproj.CoreCompileInputs.cache
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\bin\Debug\net5.0\DesafioQuadradoCubo.exe
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\bin\Debug\net5.0\DesafioQuadradoCubo.deps.json
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\bin\Debug\net5.0\DesafioQuadradoCubo.runtimeconfig.json
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\bin\Debug\net5.0\DesafioQuadradoCubo.runtimeconfig.dev.json
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\bin\Debug\net5.0\DesafioQuadradoCubo.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\bin\Debug\net5.0\ref\DesafioQuadradoCubo.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\bin\Debug\net5.0\DesafioQuadradoCubo.pdb
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\obj\Debug\net5.0\DesafioQuadradoCubo.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\obj\Debug\net5.0\ref\DesafioQuadradoCubo.dll
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\obj\Debug\net5.0\DesafioQuadradoCubo.pdb
+E:\Estudos TI\DIO\DesafiosDIOGFT\DesafioQuadradoCubo\obj\Debug\net5.0\DesafioQuadradoCubo.genruntimeconfig.cache
